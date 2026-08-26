@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá, eu sou o Carlos Henrique Barcellos Rodrigues 👋
 
-<!--
-**Carloschbr/CarlosCHBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Sistemas Sênior | Tech Lead | Especialista Mainframe, Oracle & Big Data
 
-Here are some ideas to get you started:
+Profissional sênior com vasta trajetória no desenvolvimento, arquitetura e modernização de ecossistemas complexos de software de missão crítica. Experiência consolidada nos setores financeiro, previdência social, seguros, utilities (energia elétrica), logística e administração pública de alto escalão — incluindo histórico de requisição direta pela Presidência da República para atuar no SERPRO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Especialista em criar pontes de integração, conectando plataformas robustas de grande porte (Mainframe) a ambientes modernos de Big Data e esteiras ágeis de CI/CD (DevOps).
+
+---
+
+### 🛠️ Competências Técnicas
+
+#### 💻 Mainframe & Sistemas Legados
+* **Linguagens & Ambientes:** COBOL, NATURAL, JCL, CICS, TSO, ROSCOE, Delphi
+* **Bancos de Dados:** ADABAS, DB2
+
+#### 🗄️ Ecossistema Oracle & Bancos de Dados
+* **Ferramentas:** Oracle APEX, Forms, Reports, Designer, SQL-Loader
+* **Bancos de Dados:** Banco Oracle, PostgreSQL, PL/SQL (Procedures, Triggers, Packages)
+
+#### 🚀 Big Data, Analytics & Automação
+* **Linguagens:** Python (PyCharm / Jupyter Notebook), PHP, JavaScript, HTML, CSS
+* **Ecossistema Big Data:** Hadoop, Hive, Yarn, HDFS
+
+#### ⚙️ Metodologias, DevOps & CI/CD
+* **Esteiras & Versionamento:** Jenkins, GIT, GitLab, GitHub, Bitbucket
+* **Containers & Orquestração:** Docker, Control-M
+* **Gestão:** Jira, Confluence
+
+---
+
+### 💼 Resumo da Trajetória Profissional
+
+* **Fundacred** (Sênior) | *Desenvolvimento e modernização da plataforma core de crédito educacional com Python, Docker e ecossistema Git/Jenkins.*
+* **Softtek – Zurich Santander** (Sênior) | *Integração de sistemas Mainframe à infraestrutura de Big Data (Hadoop/Hive) e manutenção de sistemas críticos em Oracle APEX/PL-SQL.*
+* **Ctcea** | *Garantia de alta disponibilidade e evolução em Sistemas de Controle Aéreo nacionais.*
+* **Light & Projetos Internacionais (Angola)** | *Arquitetura de dados (ETL), soluções Oracle e regras de negócio para o Sistema de Previdência Social.*
+* **SERPRO** | *Liderança técnica nos maiores sistemas estruturantes governamentais do país (SIAFI, SIAPE, SISCOMEX, entre outros), com atuação requisitada pela Presidência da República.*
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub de Carlos" height="180em" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180em" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+* 📱 **Telefone/WhatsApp:** (85) 9 9404-7264
+* ✉️ **E-mail:** carlos.rodrigues60@gmail.com
+* 📍 **Localização:** Ceará / Rio Grande do Sul / Projetos Híbridos e Remotos
+
+---
+<p align="center"><i>"Modernizando o legado e escalando o futuro dos dados."</i></p>
