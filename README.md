@@ -11,18 +11,33 @@ Especialista em criar pontes de integração, conectando plataformas robustas de
 ### 🛠️ Competências Técnicas
 
 #### 💻 Mainframe & Sistemas Legados
-* **Linguagens & Ambientes:** COBOL, NATURAL, JCL, CICS, TSO, ROSCOE, Delphi
+![COBOL](https://shields.io)
+![Delphi](https://shields.io)
+* **Linguagens & Ambientes:** COBOL, NATURAL, JCL, CICS, TSO, ROSCOE
 * **Bancos de Dados:** ADABAS, DB2
 
 #### 🗄️ Ecossistema Oracle & Bancos de Dados
+![Oracle](https://shields.io)
+![PostgreSQL](https://shields.io)
 * **Ferramentas:** Oracle APEX, Forms, Reports, Designer, SQL-Loader
 * **Bancos de Dados:** Banco Oracle, PostgreSQL, PL/SQL (Procedures, Triggers, Packages)
 
 #### 🚀 Big Data, Analytics & Automação
+![Python](https://shields.io)
+![Apache Hadoop](https://shields.io)
+![Apache Hive](https://shields.io)
+![JavaScript](https://shields.io)
+![PHP](https://shields.io)
 * **Linguagens:** Python (PyCharm / Jupyter Notebook), PHP, JavaScript, HTML, CSS
 * **Ecossistema Big Data:** Hadoop, Hive, Yarn, HDFS
 
 #### ⚙️ Metodologias, DevOps & CI/CD
+![Docker](https://shields.io)
+![Jenkins](https://shields.io)
+![Git](https://shields.io)
+![GitLab](https://shields.io)
+![GitHub](https://shields.io)
+![Jira](https://shields.io)
 * **Esteiras & Versionamento:** Jenkins, GIT, GitLab, GitHub, Bitbucket
 * **Containers & Orquestração:** Docker, Control-M
 * **Gestão:** Jira, Confluence
